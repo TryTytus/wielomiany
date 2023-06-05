@@ -1,0 +1,3 @@
+/Users/trytytus/studia/p2/baca/wielomiany/cmake-build-debug/CMakeFiles/wielomiany.dir
+/Users/trytytus/studia/p2/baca/wielomiany/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/trytytus/studia/p2/baca/wielomiany/cmake-build-debug/CMakeFiles/rebuild_cache.dir
